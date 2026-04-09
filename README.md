@@ -1,4 +1,4 @@
-<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/794e447b-c691-4efc-8b3d-56cc2104df90" /># 📚 词性突击 · 四级词缀速查与闯关
+# 📚 词性突击 · 四级词缀速查与闯关
 
 [![GitHub Pages](https://img.shields.io/badge/demo-online-brightgreen)](https://你的用户名.github.io/cet4-pos-master/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -52,8 +52,7 @@
 
 ## 📸 预览
 
-![学习模式预览](![Uploading image.png…]
-)
+![学习模式预览](<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/794e447b-c691-4efc-8b3d-56cc2104df90" />)
 ![测验模式预览](screenshot-quiz.png)
 
 *(建议上传两张实际截图到仓库，并在此处引用)*
