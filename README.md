@@ -17,7 +17,7 @@
 
 ## 🚀 快速开始
 
-1. **在线体验**：[点击这里](https://你的用户名.github.io/cet4-pos-master/) (部署后替换链接)
+1. **在线体验**：[点击这里](https://liuwendong0602.github.io/-CET-4-POS-Master/)
 2. **本地使用**：下载本仓库，双击 `index.html` 即可在浏览器中打开
 
 ## 📖 使用说明
